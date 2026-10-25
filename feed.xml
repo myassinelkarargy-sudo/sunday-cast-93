@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sunday Brief</title>
+    <title>My Brief</title>
     <link>https://myassinelkarargy-sudo.github.io/sunday-cast-93/</link>
     <atom:link href="https://myassinelkarargy-sudo.github.io/sunday-cast-93/feed.xml" rel="self" type="application/rss+xml"/>
-    <description>Private weekly briefs: Egypt, Bayern and football, Germany, and global markets and politics.</description>
+    <description>Private twice-weekly briefs (Sundays and Wednesdays): Egypt, Bayern and football, Germany, and global markets and politics.</description>
     <language>en</language>
-    <itunes:author>Sunday Brief</itunes:author>
+    <itunes:author>My Brief</itunes:author>
     <itunes:image href="https://myassinelkarargy-sudo.github.io/sunday-cast-93/cover.jpg"/>
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
