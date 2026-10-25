@@ -1,1 +1,11 @@
-[]
+[
+ {
+  "id": "test",
+  "title": "Test episode: your new voice",
+  "description": "Good morning, and welcome to your Sunday brief. This is a quick test, so you can hear how I sound before we switch the real briefs over. Bayern had a solid week, markets were a little nervous, and back home in Cairo the weather is finally cooling down. If this sounds like you, we're in business. If not, tell me what feels off, and I'll tune it.",
+  "file": "episodes/test.mp3",
+  "bytes": 274330,
+  "seconds": 22,
+  "published": 1792957731.2033482
+ }
+]
